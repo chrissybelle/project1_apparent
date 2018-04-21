@@ -1,1 +1,4 @@
-# project1_apparent
+# APParent
+
+## A one-stop portal for busy parents
+APParent 
